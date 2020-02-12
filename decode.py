@@ -1,5 +1,4 @@
 #Andre Hansen
-#CS021-A
 #This program encrypts and decrypts files provided by the user.
 #----------------------------------------------------------------------------
 def main():
