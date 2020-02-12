@@ -15,13 +15,13 @@ This program encrypts and decrypts files provided by the user. This is a greate 
   
 ## Demo
 Suppose you have a text file like that has the following sentence:
-'''
+```
 "Hi there, this is what the decoder with encrypt."
-'''
+```
 The user could then encrypt the file and save it to have it like:
-'''
+```
 "#2 q36s6: q32r 2r n30q q36 768v76s n2q3 6w8sluq?"
-'''
+```
 Another user can then decrypt it and get back to the original value
 
 ## Run Instructions
