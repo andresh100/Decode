@@ -14,7 +14,7 @@ This program encrypts and decrypts files provided by the user. This is a greate 
   * Andre Hansen
   
 ## Demo
-Suppose you have a text file like that has the following sentence:
+Suppose you have a text file that has the following sentence:
 ```
 "Hi there, this is what the decoder with encrypt."
 ```
@@ -26,7 +26,7 @@ Another user can then decrypt it and get back to the original value
 
 ## Run Instructions
 In order to run the program make sure to have python previously installed on your computer. 
- * Open the File and follow the instructions on screen
+ * Open decode.py and follow the instructions on screen
  * Choose option 1 for encryption or option 2 for decryption
  * If needed use the test.txt file for encryption.
  * If you want to see the key for the encryption look at file codes.txt
