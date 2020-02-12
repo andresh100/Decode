@@ -69,6 +69,8 @@ def decode(codes):
                 elif i == '\n':
                     outfile.write('\n')
         print("Writing encrypted data to",fileout)
+        infile.close()
+        outfile.close()
     #if choice equals 2 then user provides a reading file only to be decrypted.
     elif choice == '2':
         infile=open(input("Enter the name of the input file:"),'r')
@@ -85,6 +87,5 @@ def decode(codes):
                     print('\n',end='')
     #close files
     infile.close()
-    outfile.close()
 #call main
 main()
